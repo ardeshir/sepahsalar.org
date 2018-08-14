@@ -1,11 +1,6 @@
 #!/bin/bash
 
-echo "running build:  yarn run build..."
-
-
-yarn run build
-
-sleep 3
+echo "Did you run build:  yarn run build..."
 
 echo "pushing to s3:  aws s3 cp dist/ s3://sepahsalar.org/ --recusive"
 

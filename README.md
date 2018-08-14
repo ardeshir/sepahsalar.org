@@ -1,1 +1,1 @@
-# frontmasters
+# front end masters course

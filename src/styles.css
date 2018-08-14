@@ -12,7 +12,7 @@ body {
 a {
   color: black;
   text-decoration: none;
-  border-bottom: 5px solid pink;
+  border-bottom: 5px solid rgb(194, 28, 56);
 }
 
 a:visited {
@@ -20,7 +20,7 @@ a:visited {
 }
 
 a:hover {
-  background-color: pink;
+  background-color: rgb(194, 28, 56);
   color: black;
   border-color: palevioletred;
 }
